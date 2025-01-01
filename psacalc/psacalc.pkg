@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'psacalc': Calculate treatment effects and relative degree of selection under proportional selection of observables and unobservables Use psacalc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f psacalc.ado
+f psacalc.sthlp
+f psacalci.ado
+f psacalci.sthlp
